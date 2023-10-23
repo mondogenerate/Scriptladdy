@@ -78,7 +78,7 @@
 *Sidia.LiveWallpaper*
 *SlingTV*
 *Speed Test*
-*Spotify*
+#*Spotify*
 *TikTok*
 *TuneInRadio*
 *Twitter*
@@ -98,7 +98,7 @@
 #*Microsoft.OutlookForWindows*            # New mail app
 #*Microsoft.Paint*                        # Classic Paint
 #*Microsoft.People*                       # Required for & included with Mail & Calendar
-#*Microsoft.PowerAutomateDesktop*
+*Microsoft.PowerAutomateDesktop*
 #*Microsoft.RemoteDesktop*
 #*Microsoft.ScreenSketch*                 # Snipping Tool
 #*Microsoft.Whiteboard*                   # Only preinstalled on devices with touchscreen and/or pen support
@@ -108,15 +108,15 @@
 #*Microsoft.windowscommunicationsapps*    # Mail & Calendar
 #*Microsoft.WindowsStore*                 # Microsoft Store, WARNING: This app cannot be reinstalled!
 #*Microsoft.WindowsTerminal*              # New default terminal app in windows 11
-#*Microsoft.Xbox.TCUI*                    # UI framework, seems to be required for MS store, photos and certain games
+*Microsoft.Xbox.TCUI*                    # UI framework, seems to be required for MS store, photos and certain games
 #*Microsoft.XboxIdentityProvider*         # Xbox sign-in framework, required for some games
 #*Microsoft.XboxSpeechToTextOverlay*      # Might be required for some games, WARNING: This app cannot be reinstalled!
 #*Microsoft.YourPhone*                    # Phone link
-#*Microsoft.ZuneMusic*                    # Modern Media Player
+*Microsoft.ZuneMusic*                    # Modern Media Player
 
 # The apps below will NOT be uninstalled unless selected during the custom setup selection or when
 #  launching the script with the '-RemoveGamingApps' parameter. 
 #
-#*Microsoft.GamingApp*                    # Modern Xbox Gaming App, required for installing some PC games
-#*Microsoft.XboxGameOverlay*              # Game overlay, required/useful for some games
-#*Microsoft.XboxGamingOverlay*            # Game overlay, required/useful for some games
+*Microsoft.GamingApp*                    # Modern Xbox Gaming App, required for installing some PC games
+*Microsoft.XboxGameOverlay*              # Game overlay, required/useful for some games
+*Microsoft.XboxGamingOverlay*            # Game overlay, required/useful for some games
